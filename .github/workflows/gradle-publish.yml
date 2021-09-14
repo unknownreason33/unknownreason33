@@ -33,5 +33,5 @@ jobs:
     - name: Publish to GitHub Packages
       run: gradle publish
       env: illegalifutouch@gmail.com
-        USERNAME: ${{ github.actor }}
+        USERNAME: ${{ seemepanduhp.uoweme }}
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
